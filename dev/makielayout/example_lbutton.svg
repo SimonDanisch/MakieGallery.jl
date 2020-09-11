@@ -76,7 +76,7 @@
   <path d="M 819 827 L 921 827 L 921 870 L 819 870 Z M 819 827 "/>
 </clipPath>
 </defs>
-<g id="surface142512">
+<g id="surface142535">
 <rect x="0" y="0" width="1200" height="900" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 80 768 L 1170 768 L 1170 30 L 80 30 Z M 80 768 "/>
 <path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:0.1;stroke-miterlimit:10;" d="M 80 768 L 80 30 M 298 768 L 298 30 M 516 768 L 516 30 M 734 768 L 734 30 M 952 768 L 952 30 M 1170 768 L 1170 30 "/>
